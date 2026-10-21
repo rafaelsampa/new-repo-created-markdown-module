@@ -8,5 +8,7 @@ ive just modified this readme
 
 ![Image with a link](/liferaylogo.jpeg)
 
+[![Liferay Logo](liferaylogo.jpeg)](https://www.liferay.com)
+
 Can you click on it?
 
